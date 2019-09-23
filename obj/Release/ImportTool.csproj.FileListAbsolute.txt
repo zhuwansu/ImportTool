@@ -1,0 +1,11 @@
+D:\xk.erp\ImportTool\bin\Release\ImportTool.exe
+D:\xk.erp\ImportTool\bin\Release\ImportTool.pdb
+D:\xk.erp\ImportTool\bin\Release\EPPlus.dll
+D:\xk.erp\ImportTool\obj\Release\ImportTool.Properties.Resources.resources
+D:\xk.erp\ImportTool\obj\Release\ImportTool.ImportTool.resources
+D:\xk.erp\ImportTool\obj\Release\ImportTool.csproj.GenerateResource.cache
+D:\xk.erp\ImportTool\obj\Release\ImportTool.csproj.CoreCompileInputs.cache
+D:\xk.erp\ImportTool\obj\Release\ImportTool.csproj.CopyComplete
+D:\xk.erp\ImportTool\obj\Release\ImportTool.exe
+D:\xk.erp\ImportTool\obj\Release\ImportTool.pdb
+D:\xk.erp\ImportTool\obj\Release\ImportTool.csprojAssemblyReference.cache
